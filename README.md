@@ -10,6 +10,11 @@ We will cover how to use ImplicitlyAnimatedWidge and how to use multiple Animati
 
 ### Animated Tesla App Conect Final UI
 
+
+
+Uploading tesla_demo.gif.mp4…
+
+
 ![Preview](/gif.gif)
 
 ![App UI](/ui.png)
