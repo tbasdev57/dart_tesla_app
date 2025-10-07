@@ -1,5 +1,9 @@
 # Animated Tesla App Conect using Flutter
 
+<video width="600" controls>
+  <source src="tesla_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **Packages we are using:**
 
