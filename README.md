@@ -13,7 +13,13 @@ We will cover how to use ImplicitlyAnimatedWidge and how to use multiple Animati
 
 Animated Tesla App Conect Final UI
 
-![Tesla Demo](tesla_demo.gif.mp4)
+### Tesla Demo
+
+<video width="480" controls>
+  <source src="tesla_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ![Preview](/gif.gif)
 
