@@ -12,7 +12,7 @@ We will cover how to use ImplicitlyAnimatedWidge and how to use multiple Animati
 
 
 
-Uploading tesla_demo.gif.mp4…
+ ![Preview] tesla_demo.gif.mp4
 
 
 ![Preview](/gif.gif)
